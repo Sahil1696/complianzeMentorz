@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "lofty-flare-447919-s6",
+  "private_key_id": "fa1a1291e995bd1d3a11bd7f8ce819a10accf59d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCEvBwobGI3x6bA\nZ071Wo3gsHxE+843O2s9qOAE4Rhp6oeDLDtM3T674WSI9YSr1xwPLYTLFMxeUEsJ\nASF5YMA9AMB+HdQSgNFmX2sNv1XRARy21xaHLd+KJOZmaKK4Z5FyzajgtQqJS1QH\nGhy/M7VaIUZ+G5sjeG/HcysrJqowLAj571mR5eh1PrYGUlUxSAYH8/Gt2/02ww1I\npC4C4uLe/FyIQnMsgSSC0yRE3+IFbs+LmXsLbzl7BsKJiS1kBTi7OzELwKY1paMh\nK+vu/Wauf5/L0M3kyiK0sCOW3F/Zab0OuCnfu+g2hK00qYOed/d7tknvQJ+Tv1Zn\nXKhx3TP3AgMBAAECggEAIIrL7n8wD1PkBoztd0rVuO4b8X+4vaLUNoBGN/wF08Xb\npmW8PiqJ/F8Uml1zQvwQlYoH4hA90Kun0dPUpKD7UJl0GBdxDH5HmG0xXmP4Aq9e\nnlcaX1b4VLKaSCZEKqi9qKNSUZEhParZtYoJ3TissCWzViyneulGomQSg9hNZlSz\nFIruSEk0LXCPP3X1ox0sKBc474Ik+9n5P0DmtLtrkjiiXObK4FfmernMrJdLvhvm\neznXfHHEekLggz3qBjkK9+aV7L2ofZMcvB4G84H7is/23rvC6K1F+fqxhV3gml80\niwnUi2I0Mg3qIAQWd5yIZ6ByKbV+wiT9HDdGaTPFBQKBgQC55F89WIwsNd8lSSTc\n2ISI6LCzlzz1phBHyf16bqMqqOzQPRitcRWo6ifsUyqRqE1PVwqjzyp3dCnqCJUy\nEaWo6k5PDS8bbXt38uelGOK/+zyWsiW2gFeMGjG/qWrJwWDCpM8y/4HIDeapVJQy\n2ApUQzxt+hekpZA4ajKKkNauHQKBgQC2y3mt/2Ea1pRhK9v/CpOXKwPYdyQHUX5f\n+7yyhHcpLB+VQVaQH8ShKfKNG00fxz2tLnl2q5Q1Poi9etYGGyg7bdScqmkFd/Ub\nif7bQfREr12+c7fkHyUi96BHhLYO1BvT+NRAG4Zg7+9C8kRjouf4H7X8I7By/2U+\npdrNIcweIwKBgEnYEIVcEYLWe6hiIASi9jM0zEzrPUoQB9Ocx9bE8IhXxosKWi08\nCPCq4+UbPIPUKbHkz9M2zpXZTXUsp6fWHsq1GRqKEDaDDVMe6SpKcnj1IqJybkzL\nOvvqw+xxLnyrFvb7ZVvK6BFChGirsptn+uJyOyUs/gtnwZzHgwBMfRt5AoGBAIFb\nWQ6jDOrbM0HYseS4bV2q2RvUpDBxoUb3dL+4MkN2sBsFk+aGNLYAY18sFNYKP0FR\nBC/QmB9d05KTXOYRTdVQkgcUKSHvlAsbCrnK4LvChkqCxX2v9K3cIxa5ecTgoZjO\nHBYJ5HyxDtaHb5I69IGIn1aBQxr+VX2SDVbhNfuVAoGAa1zAXKvfWcX3UksoCS6M\n7M3UOYgFggAdb9enE6/D5j8qjBhAxIJkmSpXcUW0evBnMJIeY2ETOC639QszcMbK\n50eYDT/ZHgVfZhGi9SRlhom5tlDitzH0i0YTv3sU4Eo2lg1ItmNBTg9OkiqJfLtO\nybUhXJ4D4XXn4mSlD8Mvgto=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firestoreserviceaccount@lofty-flare-447919-s6.iam.gserviceaccount.com",
+  "client_id": "108204155624023504842",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firestoreserviceaccount%40lofty-flare-447919-s6.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
